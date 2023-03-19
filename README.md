@@ -1,4 +1,4 @@
-# erc20 cairo
+# zrc20 (ZVM ERC20) cairo
 
 ```bash
 export STARKNET_WALLET=starkware.starknet.wallets.open_zeppelin.OpenZeppelinAccount
